@@ -1,5 +1,3 @@
-# Theory Division Lab Handbook
-
 ## lab location - offices and lab benches
 
 [Desk assignments](https://docs.google.com/spreadsheets/d/1JmrgIWqgCegkAnWhVDr7hXzMWxeonOmWmzfqFT9p5WM/edit?usp=sharing)
