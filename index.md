@@ -66,7 +66,7 @@ Jess | Informatics | B
 Davis | Informatics | B
 Nikhil | Informatics, Math Evo | B
 Abhilash | Informatics | B
-Dena | Informatics | B 
+Dena | Informatics | B
 Tommy | Informatics | B
 Raoul | TDA | C
 Eashwar | TDA | C
@@ -168,3 +168,6 @@ A: We all work during the hours that work for us! Of course, there may be except
 The theory division is a highly dynamic lab and frequently has members or collaborators who span professional boundaries. To keep track of who is currently an active member of the lab, we’re utilizing a google sheet which you can add yourself to via this [google form](https://forms.gle/FxfgNXQyLtege3x69)! You can view the current census by clicking the link below:
 
 [Theory Division Census (Responses)](https://docs.google.com/spreadsheets/d/1qRgyQlYfRQC5odrmjI9fZc7Ezvs0GgFhb8uikxs1nIk/edit?usp=sharing)
+
+### helpful links
+- [Theory Division Youtube Channel](https://www.youtube.com/channel/UCr_3HE-tUGu9mlSHQGZSYQA/featured)
