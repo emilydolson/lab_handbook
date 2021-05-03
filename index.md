@@ -4,7 +4,6 @@
 
 [Shuttle information](https://case.edu/access-services/transportation/shuttles)
 ## lab onboarding - badge access, etc
-
 If you are a brand new member of the lab, please add yourself to the lab census
 by filling out this [google form](https://forms.gle/FxfgNXQyLtege3x69)! A
 working lab census can be found in the appendix, including contact info and
@@ -53,6 +52,34 @@ with hyperlinks to useful stuff.  This will eventually go on the website/wiki
 somewhere - this will allow folks to fill themselves in a bit more, and should
 provide breadcrumbs for further reading either of your own stuff, or of other
 background work in the form of out-links.
+
+Name | Focus | Group
+-----|-------|------
+Steph | Math Evo | A
+Jeff | Bacterial Evo, Math Evo | A
+Ruipeng | Math Evo | A
+Linh | Math Evo | A
+Eshan | Math Evo | A
+Em | Math Evo | A
+Arda | Informatics | B
+Jess | Informatics | B
+Davis | Informatics | B
+Nikhil | Informatics, Math Evo | B
+Abhilash | Informatics | B
+Dena | Informatics | B 
+Tommy | Informatics | B
+Raoul | TDA | C
+Eashwar | TDA | C
+Geoff | Game theory | C
+Adam | TDA | C
+Luka | | C
+Vish | Engineering | D
+Masahiro | wet lab | D
+Mina | wet lab | D
+Kyle | Bacterial Evo | D
+Rupleen | | D
+Kristi | | D
+
 
 ## case cluster computing
 
