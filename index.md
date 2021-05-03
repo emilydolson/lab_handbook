@@ -53,7 +53,7 @@ Each of these background slides should have an accompanying paragraph that gives
 a basic background for the project (not included in your presentation), complete
 with hyperlinks to useful stuff.  This will eventually go on the website/wiki
 somewhere - this will allow folks to fill themselves in a bit more, and should
-provide breadcrumbs for further reading either of your own stuff, or of other 
+provide breadcrumbs for further reading either of your own stuff, or of other
 background work in the form of out-links.
 
 ## case cluster computing
@@ -90,3 +90,56 @@ for the group temperature to restabilize (WARNING: hot steam will flow freely
 from the grouphead).
 
 ![Coffee brewing compass](https://github.com/TheoryDivision/lab_handbook/blob/main/brewed_coffee_compass.png)
+
+## mental health
+
+If you are a student at Case Western Reserve University, you are entitled to 12
+free counseling sessions per year through [University Health and Counseling
+Services](https://case.edu/studentlife/healthcounseling/)
+(no appointment necessary!). If you are unsure if you need or would benefit from
+counseling, it’s low risk to try it out and see if it’s for you. During the
+COVID-19 pandemic, the 12 session limit has been lifted indefinitely.
+
+The MSTP also maintains a [Mental Health and Wellness Resources](https://case.edu/medicine/sites/case.edu.medicine/files/2020-01/List%20of%20Available%20Mental%20Health%20Resources.pdf) document, which can also be found on the "For Current Students" tab on the [MSTP website](https://case.edu/medicine/admissions-programs/md-phd-program/).
+
+## faqs
+
+Q: Why are people slacking me at 12:30 a.m.?
+A: We all work during the hours that work for us! Of course, there may be exceptions… But In general, don’t feel obligated to respond to emails or requests that are outside of your normal working hours.
+
+## appendix
+
+### classic theory division background papers
+
+#### fitness landscape papers
+1. Wright, Sewall. The roles of mutation, inbreeding, crossbreeding, and selection in evolution. Vol. 1. na, 1932.
+1. Weinreich, Daniel M., et al. "Darwinian evolution can follow only very few mutational paths to fitter proteins." science 312.5770 (2006): 111-114.
+1. Hinkley, Trevor, et al. "A systems analysis of mutational effects in HIV-1 protease and reverse transcriptase." Nature genetics 43.5 (2011): 487-489.
+1. De Visser, J. Arjan Gm, and Joachim Krug. "Empirical fitness landscapes and the predictability of evolution." Nature Reviews Genetics 15.7 (2014): 480-490.
+1. Nichol, Daniel, et al. "Steering evolution with sequential therapy to prevent the emergence of bacterial antibiotic resistance." PLoS Comput Biol 11.9 (2015): e1004493.
+1. Kaznatcheev, Artem. "Computational complexity as an ultimate constraint on evolution." Genetics 212.1 (2019): 245-265.
+
+#### collateral sensitivity papers
+1. Imamovic, Lejla, and Morten OA Sommer. "Use of collateral sensitivity networks to design drug cycling protocols that avoid resistance development." Science translational medicine 5.204 (2013): 204ra132-204ra132.
+1. Fuentes-Hernandez, Ayari, et al. "Using a sequential regimen to eliminate bacteria at sublethal antibiotic dosages." PLoS Biol 13.4 (2015): e1002104.
+1. Dhawan, Andrew, et al. "Collateral sensitivity networks reveal evolutionary instability and novel treatment strategies in ALK mutated non-small cell lung cancer." Scientific reports 7.1 (2017): 1-9.
+1. Yoshida, Mari, et al. "Time-programmable drug dosing allows the manipulation, suppression and reversal of antibiotic drug resistance in vitro." Nature communications 8.1 (2017): 1-11.
+1. Nichol, Daniel, et al. "Antibiotic collateral sensitivity is contingent on the repeatability of evolution." Nature communications 10.1 (2019): 1-10.
+
+#### automated experimental evolution (EVE) papers
+1. Toprak, Erdal, et al. "Building a morbidostat: an automated continuous-culture device for studying bacterial drug resistance under dynamically sustained drug inhibition." Nature protocols 8.3 (2013): 555-567.
+1. Wong, Brandon G., et al. "Precise, automated control of conditions for high-throughput growth of yeast and bacteria with eVOLVER." Nature biotechnology 36.7 (2018): 614-623.
+
+#### evolution and spatial structure papers
+1. Frean, Marcus, Paul B. Rainey, and Arne Traulsen. "The effect of population structure on the rate of evolution." Proceedings of the Royal Society B: Biological Sciences 280.1762 (2013): 20130211.
+
+#### Math-onco papers
+1. Anderson, Alexander RA, and Mark A. J. Chaplain. "Continuous and discrete mathematical models of tumor-induced angiogenesis." Bulletin of mathematical biology 60.5 (1998): 857-899.
+1. Anderson, Alexander RA, et al. "Tumor morphology and phenotypic evolution driven by selective pressure from the microenvironment." Cell 127.5 (2006): 905-915.
+1. Gatenby, Robert A., et al. "Adaptive therapy." Cancer research 69.11 (2009): 4894-4903.
+
+## census
+
+The theory division is a highly dynamic lab and frequently has members or collaborators who span professional boundaries. To keep track of who is currently an active member of the lab, we’re utilizing a google sheet which you can add yourself to via this [google form](https://forms.gle/FxfgNXQyLtege3x69)! You can view the current census by clicking the link below:
+
+[Theory Division Census (Responses)](https://docs.google.com/spreadsheets/d/1qRgyQlYfRQC5odrmjI9fZc7Ezvs0GgFhb8uikxs1nIk/edit?usp=sharing)
