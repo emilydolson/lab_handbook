@@ -89,7 +89,7 @@ once the steam boiler is fully pressurized and then waiting another 5 minutes
 for the group temperature to restabilize (WARNING: hot steam will flow freely
 from the grouphead).
 
-![Coffee brewing compass](https://github.com/TheoryDivision/lab_handbook/blob/main/brewed_coffee_compass.png)
+![Coffee brewing compass](brewed_coffee_compass.png)
 
 ## mental health
 
