@@ -29,7 +29,7 @@ should be added to.
 
 Currently, lab meetings are done over zoom (see the lab calendar or slack for
 the link) and slides are presented via google slides. You can find the weekly
-slide deck, along with the presentation archive, in this google drive. The G1
+slide deck, along with the presentation archive, in this [google drive](https://drive.google.com/drive/folders/1Td6w38lMTlTl_yOHnCTZgT6SO2TUn5Rj). The G1
 MD/PhD student in the lab is currently responsible for scheduling lab meetings.
 For the 2020-2021 academic year, that’s Davis Weaver.
 
