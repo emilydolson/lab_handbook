@@ -78,3 +78,15 @@ Start here: [Video guide to brewing espresso in the Theory Division](https://dri
 The lab espresso machine is a Profitec Pro 800 (user manual found [here](https://www.profitec-espresso.com/media/pages/produkte/pro800/3880687400-1559739290/pro_800.pdf)
 or [here](https://www.profitec-espresso.com/en/products/pro800)). The grinder is
 a Baratza Sette 270Wi (user manual found [here](https://baratza.com/grinder/sette-270wi/))
+
+Written brewing guide is a work in progress.
+
+Other details:
+- Look here for a [good thread](https://www.home-barista.com/reviews/profitec-pro-800-review-t44660.html) on this machine.
+- Ideally you should allow the machine 45 minutes to heat up. If you’re in a
+hurry, you can reduce the warmup time by flushing water through the grouphead
+once the steam boiler is fully pressurized and then waiting another 5 minutes
+for the group temperature to restabilize (WARNING: hot steam will flow freely
+from the grouphead).
+
+![Coffee brewing compass](https://github.com/TheoryDivision/lab_handbook/blob/main/brewed_coffee_compass.png)
