@@ -1,8 +1,3 @@
-## lab location - offices and lab benches
-
-[Desk assignments](https://docs.google.com/spreadsheets/d/1JmrgIWqgCegkAnWhVDr7hXzMWxeonOmWmzfqFT9p5WM/edit?usp=sharing)
-
-[Shuttle information](https://case.edu/access-services/transportation/shuttles)
 ## lab onboarding - badge access, etc
 If you are a new member of the lab, please add yourself to the lab census
 by filling out this [google form](https://forms.gle/FxfgNXQyLtege3x69)! A
@@ -17,6 +12,12 @@ food.
 
 Important background papers for the work in the Theory Division can be found in
 the appendix (work in progress).
+
+## lab location - offices and lab benches
+
+[Desk assignments](https://docs.google.com/spreadsheets/d/1JmrgIWqgCegkAnWhVDr7hXzMWxeonOmWmzfqFT9p5WM/edit?usp=sharing)
+
+[Shuttle information](https://case.edu/access-services/transportation/shuttles)
 
 ## lab meeting - schedule and format
 Lab meetings are currently scheduled for every Tuesday from 2:30 pm - 4:30 pm.
