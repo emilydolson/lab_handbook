@@ -137,7 +137,11 @@ A: We all work during the hours that work for us! Of course, there may be except
 
 ### protocols
 
-[Test Protocol](https://theorydivision.github.io/lab_handbook/protocols/protocol1.html)
+[Example Protocol](https://theorydivision.github.io/lab_handbook/protocols/protocol1.html)
+
+[How to Write a Scientific Paper (Presentation by Kyle Card)](https://www.youtube.com/watch?v=9eE4PkuuB9o)
+
+[How to Review a Scientific Paper (Presentation by Steph Owen)](https://www.youtube.com/watch?v=QUvcAl2Lpqo)
 
 ### classic theory division background papers
 
