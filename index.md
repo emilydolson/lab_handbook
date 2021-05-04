@@ -4,7 +4,7 @@
 
 [Shuttle information](https://case.edu/access-services/transportation/shuttles)
 ## lab onboarding - badge access, etc
-If you are a brand new member of the lab, please add yourself to the lab census
+If you are a new member of the lab, please add yourself to the lab census
 by filling out this [google form](https://forms.gle/FxfgNXQyLtege3x69)! A
 working lab census can be found in the appendix, including contact info and
 research interests of all current members.
