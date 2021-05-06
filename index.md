@@ -80,6 +80,7 @@ Eashwar | TDA | C
 Geoff | Game theory | C
 Adam | TDA | C
 Luka | | C
+Julia | Fitness landscapes | C
 Vish | Engineering | D
 Masahiro | wet lab | D
 Mina | wet lab | D
