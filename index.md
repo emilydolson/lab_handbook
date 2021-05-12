@@ -112,8 +112,6 @@ The lab espresso machine is a Profitec Pro 800 (user manual found [here](https:/
 or [here](https://www.profitec-espresso.com/en/products/pro800)). The grinder is
 a Baratza Sette 270Wi (user manual found [here](https://baratza.com/grinder/sette-270wi/))
 
-Written brewing guide is a work in progress.
-
 Other details:
 - Look here for a [good thread](https://www.home-barista.com/reviews/profitec-pro-800-review-t44660.html) on this machine.
 - Ideally you should allow the machine 45 minutes to heat up. If you’re in a
