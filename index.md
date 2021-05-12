@@ -4,7 +4,7 @@ Our lab is committed to creating and maintaining an environment in which all are
 
 The mission of our lab is to create a space for students and postdocs to develop the skills necessary to be able to effectively question, research, and communicate scientific topics. We understand that differences will exist in the level of training, knowledge, personal circumstances, and life and career goals of lab members. As such, our goal is to provide an equitable academic opportunity while taking these conditions into account.
 
-## lab onboarding - badge access, etc
+## lab onboarding
 If you are a new member of the lab, please add yourself to the lab census
 by filling out this [google form](https://forms.gle/FxfgNXQyLtege3x69)! A
 working lab census can be found in the appendix, including contact info and
